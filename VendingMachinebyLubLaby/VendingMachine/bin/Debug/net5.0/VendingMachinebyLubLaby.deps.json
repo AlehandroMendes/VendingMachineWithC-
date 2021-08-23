@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VendingMachinebyLubLaby/1.0.0": {
+        "runtime": {
+          "VendingMachinebyLubLaby.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachinebyLubLaby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

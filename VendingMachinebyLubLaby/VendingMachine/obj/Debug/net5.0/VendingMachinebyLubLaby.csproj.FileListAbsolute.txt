@@ -1,0 +1,16 @@
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.exe
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.deps.json
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.runtimeconfig.json
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.runtimeconfig.dev.json
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.dll
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\ref\VendingMachinebyLubLaby.dll
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\bin\Debug\net5.0\VendingMachinebyLubLaby.pdb
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.csproj.AssemblyReference.cache
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.AssemblyInfoInputs.cache
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.AssemblyInfo.cs
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.csproj.CoreCompileInputs.cache
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.dll
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\ref\VendingMachinebyLubLaby.dll
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.pdb
+C:\Users\aleha\Documents\LabLuby ASP.NET\3. VendindMachine\VendingMachinebyLubLaby\VendingMachinebyLubLaby\obj\Debug\net5.0\VendingMachinebyLubLaby.genruntimeconfig.cache
